@@ -7,6 +7,7 @@ import androidx.navigation.compose.composable
 import androidx.navigation.compose.rememberNavController
 import com.seekho.seekhojikanapi.viewmodel.viewmodelJikan
 
+
 @Composable
 fun MainScreen(viewModelObject: viewmodelJikan = hiltViewModel()) {
 
