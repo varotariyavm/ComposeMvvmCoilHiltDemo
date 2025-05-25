@@ -1,4 +1,4 @@
-# **SheekhoTask**
+# **ComposeMvvmCoilHiltDemo**
 
 ### **Android Development Assignment**
 This is an Android project that displays a list of anime fetched from the Jikan API. Users can view details about anime.
