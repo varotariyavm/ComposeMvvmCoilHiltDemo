@@ -5,6 +5,9 @@ This is an Android project that displays a list of anime fetched from the Jikan 
 
 ---
 
+![App Screenshot](images/screenshot.png)
+
+
 ## **Assumptions Made**
 - The anime list and details are fetched from the **Jikan API**:
   - **Anime list**: [https://api.jikan.moe/v4/top/anime](https://api.jikan.moe/v4/top/anime)
