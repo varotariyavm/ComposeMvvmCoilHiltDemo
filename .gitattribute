@@ -1,0 +1,9 @@
+# Ignore Java files for language detection
+*.java linguist-detectable=false
+
+# Ensure Kotlin files are considered
+*.kt linguist-detectable=true
+
+# Force Kotlin as the main language in relevant folders
+/src/** linguist-language=Kotlin
+/app/src/** linguist-language=Kotlin
